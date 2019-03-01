@@ -1,0 +1,7 @@
+<? php
+// tipedata
+$ harga = 500;
+$ jumlah = 4;
+
+echo $ harga;
+gema $ jumlah;
